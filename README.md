@@ -1,0 +1,1 @@
+# Caracterizaci-n-de-termopares
