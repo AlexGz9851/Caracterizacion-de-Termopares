@@ -54,5 +54,21 @@ for i = length(matrix) : -1 : sHalfLongitude %Recorre en horizontal porque prime
     sHalfHeight = sHalfHeight - 1
     sHalfLongitude = sHalfLongitude + 1
 end
+
+position = 1
+fResults = zeros(1,length(results));
+
+
+for i = 1: 1:length(matrix)
+    
+    for j = 1: 1:length(matrix)
+        if j==position
+            fResults(position) = results(i)/matrix(i,j)
+        end
+    end
+    position = position + 1
+    
+end
 disp(matrix)
 disp(results)
+disp(fResults)
