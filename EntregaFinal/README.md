@@ -55,5 +55,10 @@
 |          Caracterización_De_Termopares.exe       |
 |  ***Disfrute                                     |
 |                                                  |
+|                                                  |
+| ------------- Known Issues -------------------   |
+| --En algunas ocasiones ( de forma aleatoria)     |
+|   El programa no grafica los datos. Es debido    |
+|   a un bug de una función interna.               |
 |--------------------------------------------------|
 

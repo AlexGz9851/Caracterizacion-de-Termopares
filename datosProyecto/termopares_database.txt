@@ -1,0 +1,2 @@
+https://srdata.nist.gov/its90/type_r/rcoefficients.html
+termopares
